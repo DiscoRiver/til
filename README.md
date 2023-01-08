@@ -1,2 +1,2 @@
-# til
-What I learned today.
+# TIL
+This is storage for Disco's dev notes and learned topics.

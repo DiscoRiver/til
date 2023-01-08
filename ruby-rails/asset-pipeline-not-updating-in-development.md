@@ -1,0 +1,1 @@
+If updating application.scss doesn’t chang the running site, you might have created a public/assets directory, which you’ll need to delete.
