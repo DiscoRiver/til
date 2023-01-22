@@ -1,4 +1,4 @@
-Data engineering can be defined in many ways. Here are a few;
+Data engineering can be defined in many ways. Here are a few that all seem to say something slightly varied;
 
 ```
 Data engineering is a set of operations aimed at creating interfaces and mechanisms for the flow and access of information. It takes dedicated specialists—data engineers—to maintain data so that it remains available and usable by others. In short, data engineers set up and operate the organization’s data infrastructure, preparing it for further analysis by data analysts and scientists.
