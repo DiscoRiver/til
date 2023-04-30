@@ -1,0 +1,3 @@
+https://deviq.com/antipatterns/witches-brew-architecture
+
+Witches' Brew Architecture is a software antipattern characterized by a chaotic and poorly structured codebase that combines multiple technologies, design patterns, and coding styles in a haphazard and inconsistent manner. This lack of coherence and organization makes the code difficult to understand, maintain, and extend, leading to increased development costs and potential for errors. 

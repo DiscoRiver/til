@@ -1,0 +1,1 @@
+This refers to a project where 80% of the requirements are easy and straightforward to solve, and a further 10% might be solved with custom scripts, but the last 10% proves extremely difficult and ultimate the project may end in failure.
