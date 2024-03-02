@@ -18,7 +18,7 @@ func main() { // 3
 }
 ```
 
-We can also expand on this by using and underscore (_) to simply run the func without any assignment;
+We can also expand on this by using an underscore (_) to simply run the func without any assignment;
 
 ```go
 var _ = GenerateSomething()
