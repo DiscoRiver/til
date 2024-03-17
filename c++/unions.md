@@ -108,4 +108,4 @@ int main(int argc, char* argv[])
 
 To explain this for my own brain, we have an `enum` outlining `temperature` and `wind`, the corresponding structs for them, and then a union in which we have our `enum`, telling us which type of value the union currently holds.
 
-One problem that comes to mind is that we need to make sure we're populating `WeatherDataType` every time we write to an `Input`. Maybe it would just be a case of wrapping the behaviour in a function like `PutTemp` or `PutWind`? That way the consume doesn't know or care about our implementation (which is good?).
+A solution to the problem of assigning `WeatherDataType` every time we set a value, we can encapsulate the union in a type field, in a class, and offer access only through member functions that use the union correctly (setting `WeatherDataType` for us). The use of `naked unions` is best minimised. 
