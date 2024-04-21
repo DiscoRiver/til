@@ -1,0 +1,1 @@
+It's complicated, please read this: https://go.dev/blog/strings
